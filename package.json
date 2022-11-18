@@ -23,7 +23,7 @@
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.4",
     "babel-preset-env": "^1.6.1",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "webpack": "^4.29.6",
     "webpack-cli": "^3.2.3",
     "webpack-dev-server": "^3.2.1"
@@ -38,7 +38,7 @@
     "express": "^4.16.4",
     "fractional": "^1.0.0",
     "heroku": "^7.21.0",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "print-html-element": "^0.5.1",
     "string-similarity": "^3.0.0",
     "uniqid": "^5.0.3",
